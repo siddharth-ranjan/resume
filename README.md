@@ -2,9 +2,6 @@
 **LinkedIn:** https://www.linkedin.com/in/siddharth-ranjan09/  
 **GitHub:** https://github.com/siddharth-ranjan  
 **Email:** [siddharthranjan0909@gmail.com](mailto:siddharthranjan0909@gmail.com)
-
-**Mobile:** [+91-88253 53912](tel:+918825353912)
-
 **LeetCode:** https://leetcode.com/u/sid0909/  
 
 ---

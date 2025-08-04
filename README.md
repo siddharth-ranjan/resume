@@ -15,7 +15,7 @@ Strong interest in exploring the capabilities of Generative AI and Machine Learn
 
 ## **EDUCATION**  
 **Vellore Institute of Technology**  
-- Masters in Computer Applications; CGPA: 9.13  
+- Masters in Computer Applications; CGPA: 9.45  
 - **Courses:** Data Structures, Machine Learning, Database Systems, Java  
 - **Dates:** July 2023 - Present  
 - **Location:** Chennai, India  
